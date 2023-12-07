@@ -139,7 +139,7 @@ public class Quiz {
             }
             //Question 10
             System.out.println();
-            System.out.println("Question 10: How to create an object of class \"Person\" in java ");
+            System.out.println("Question 10: How to create an object of class \"Person\" in java? ");
             System.out.println("a. Person obj;");
             System.out.println("b. Person obj()");
             System.out.println("c. Person obj=new Person()");
